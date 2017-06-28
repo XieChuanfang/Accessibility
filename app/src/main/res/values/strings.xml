@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo_Accessbility</string>
+    <string name="check_click">读取微信聊天、公众号最新消息回复</string>
+    <string name="auto_reply">微信自动回复，回复:正在忙，稍后回复!!</string>
+</resources>
